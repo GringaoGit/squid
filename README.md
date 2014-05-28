@@ -1,0 +1,4 @@
+squid
+=====
+
+squid conf
